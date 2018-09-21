@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="32" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="33" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="34" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="39" pc="268435522" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="40" pc="268435544" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="44" pc="268435561" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="45" pc="268435565" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="46" pc="268435602" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="47" pc="268435645" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="48" pc="268435659" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="49" pc="268435700" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="50" pc="268435741" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="53" pc="268435788" symbol="onPosition"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="60" pc="268435793" symbol="onShow"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="64" pc="268435798" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="66" pc="268435802" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="68" pc="268435822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="69" pc="268435845" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="70" pc="268435864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="71" pc="268435900" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="72" pc="268435944" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="73" pc="268435980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="76" pc="268436088" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="77" pc="268436124" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="78" pc="268436168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="79" pc="268436204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="81" pc="268436307" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="84" pc="268436385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="85" pc="268436419" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="86" pc="268436441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="87" pc="268436457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="89" pc="268436470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="90" pc="268436484" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="91" pc="268436495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="93" pc="268436538" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="94" pc="268436578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="96" pc="268436591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="97" pc="268436603" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="98" pc="268436617" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="99" pc="268436630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="101" pc="268436689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="102" pc="268436729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="103" pc="268436825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="104" pc="268436865" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="111" pc="268436974" symbol="onHide"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="114" pc="268436979" symbol="initializeTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="115" pc="268436983" symbol="initializeTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="116" pc="268437013" symbol="initializeTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="121" pc="268437064" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="122" pc="268437068" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="123" pc="268437085" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="124" pc="268437124" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="131" pc="268437206" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="132" pc="268437258" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="135" pc="268437315" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="136" pc="268437333" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="137" pc="268437351" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="140" pc="268437366" symbol="onSelect"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="143" pc="268437370" symbol="drawTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="145" pc="268437374" symbol="drawTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="146" pc="268437414" symbol="drawTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="148" pc="268437434" symbol="drawTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="149" pc="268437459" symbol="drawTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="150" pc="268437473" symbol="drawTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="153" pc="268437489" symbol="drawTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="154" pc="268437519" symbol="drawTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="158" pc="268437629" symbol="getSegmentWidth"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="159" pc="268437633" symbol="getSegmentWidth"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="161" pc="268437659" symbol="getSegmentWidth"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="163" pc="268437668" symbol="getSegmentWidth"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="166" pc="268437705" symbol="updateTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="167" pc="268437709" symbol="updateTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="168" pc="268437739" symbol="updateTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="170" pc="268437780" symbol="updateTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="172" pc="268437863" symbol="updateTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="173" pc="268437874" symbol="updateTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="174" pc="268437893" symbol="updateTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="175" pc="268437913" symbol="updateTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="180" pc="268437936" symbol="updateScreen"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="181" pc="268437940" symbol="updateScreen"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="184" pc="268437957" symbol="moveTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="185" pc="268437961" symbol="moveTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="188" pc="268437981" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="189" pc="268437985" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="190" pc="268438008" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="191" pc="268438027" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="193" pc="268438052" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="194" pc="268438072" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="196" pc="268438093" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="197" pc="268438122" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="199" pc="268438131" symbol="getHeliHeight"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="203" pc="268438195" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="204" pc="268438199" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="205" pc="268438230" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="206" pc="268438240" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="207" pc="268438311" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="208" pc="268438359" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="209" pc="268438384" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="215" pc="268438421" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="216" pc="268438486" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterView.mc" lineNum="218" pc="268438499" symbol="checkInsideTunnel"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterMenuDelegate.mc" lineNum="6" pc="268438510" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterMenuDelegate.mc" lineNum="7" pc="268438514" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterMenuDelegate.mc" lineNum="10" pc="268438533" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterMenuDelegate.mc" lineNum="11" pc="268438537" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterMenuDelegate.mc" lineNum="12" pc="268438548" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterMenuDelegate.mc" lineNum="14" pc="268438583" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterDelegate.mc" lineNum="5" pc="268438608" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterDelegate.mc" lineNum="6" pc="268438612" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterDelegate.mc" lineNum="9" pc="268438631" symbol="onMenu"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterDelegate.mc" lineNum="10" pc="268438635" symbol="onMenu"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterDelegate.mc" lineNum="11" pc="268438719" symbol="onMenu"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterApp.mc" lineNum="6" pc="268438723" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterApp.mc" lineNum="7" pc="268438727" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterApp.mc" lineNum="11" pc="268438746" symbol="onStart"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterApp.mc" lineNum="15" pc="268438751" symbol="onStop"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterApp.mc" lineNum="19" pc="268438756" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Fred\\workspace\\Helicopter\\source\\HelicopterApp.mc" lineNum="20" pc="268438760" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="15" pc="268438828" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268438832" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268438850" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268438902" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268438955" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="33" method="true" symbol="updateTunnel"/>
+<entry id="37" method="true" symbol="checkInsideTunnel"/>
+<entry id="31" method="true" symbol="drawTunnel"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="22" symbol="tunnelPosition"/>
+<entry field="true" id="14" symbol="playerScore"/>
+<entry id="42" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="19" symbol="ELEVATION_SPREAD"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8388643" symbol="Sensor"/>
+<entry field="true" id="17" symbol="numTunnelPoints"/>
+<entry id="36" method="true" symbol="getHeliHeight"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="43" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="12" symbol="baseElevation"/>
+<entry id="8388638" symbol="ActivityRecording"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="27" symbol="accurateAtl"/>
+<entry field="true" id="47" symbol="AppName"/>
+<entry id="8388890" symbol="sport"/>
+<entry field="true" id="20" symbol="tunnelWidth"/>
+<entry id="8388892" symbol="name"/>
+<entry field="true" id="21" symbol="tunnel"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="40" symbol="Helicopter"/>
+<entry id="50" symbol="item_2"/>
+<entry id="49" symbol="item_1"/>
+<entry id="35" method="true" symbol="moveTunnel"/>
+<entry id="8388641" symbol="Math"/>
+<entry id="34" method="true" symbol="updateScreen"/>
+<entry id="9" object="true" symbol="HelicopterMenuDelegate"/>
+<entry field="true" id="41" symbol="LauncherIcon"/>
+<entry id="8388646" symbol="Timer"/>
+<entry field="true" id="45" symbol="menu_label_2"/>
+<entry field="true" id="44" symbol="menu_label_1"/>
+<entry field="true" id="24" symbol="screenTimer"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8" object="true" symbol="HelicopterView"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8388891" symbol="subSport"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="32" method="true" symbol="getSegmentWidth"/>
+<entry field="true" id="18" symbol="NUMBER_OF_TUNNEL_POINTS"/>
+<entry field="true" id="13" symbol="currentElevation"/>
+<entry field="true" id="8388651" symbol="session"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="29" method="true" symbol="onPosition"/>
+<entry field="true" id="16" symbol="PIXELS_PER_TUNNEL_POINT"/>
+<entry id="39" module="true" symbol="Layouts"/>
+<entry id="8388642" symbol="Position"/>
+<entry field="true" id="46" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="10" object="true" symbol="HelicopterDelegate"/>
+<entry field="true" id="28" symbol="insideTunnel"/>
+<entry field="true" id="25" symbol="helicopterIcon"/>
+<entry field="true" id="15" symbol="highScore"/>
+<entry id="38" module="true" symbol="Menus"/>
+<entry id="11" object="true" symbol="HelicopterApp"/>
+<entry id="30" method="true" symbol="initializeTunnel"/>
+<entry field="true" id="23" symbol="tunnelTimer"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="26" symbol="positionInfo"/>
+</symbolTable>
+<localVars>
+<entry endPc="268437063" name="i" stackId="2" startPc="268437013"/>
+<entry endPc="268437628" name="i" stackId="2" startPc="268437519"/>
+<entry endPc="268437780" name="i" stackId="2" startPc="268437739"/>
+<entry endPc="268438509" name="tunnelClearance" stackId="7" startPc="268438199"/>
+<entry endPc="268438509" name="slope" stackId="4" startPc="268438199"/>
+<entry endPc="268438509" name="tunnelHeight" stackId="6" startPc="268438199"/>
+<entry endPc="268438509" name="intercept" stackId="5" startPc="268438199"/>
+<entry endPc="268438509" name="index2" stackId="3" startPc="268438199"/>
+<entry endPc="268438509" name="index1" stackId="2" startPc="268438199"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="HelicopterView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="HelicopterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onPosition" parent="HelicopterView">
+<param id="position"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="HelicopterView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="HelicopterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="HelicopterView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initializeTunnel" parent="HelicopterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="HelicopterView">
+<documentation/>
+</functionEntry>
+<functionEntry name="drawTunnel" parent="HelicopterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getSegmentWidth" parent="HelicopterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="updateTunnel" parent="HelicopterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="updateScreen" parent="HelicopterView">
+<documentation/>
+</functionEntry>
+<functionEntry name="moveTunnel" parent="HelicopterView">
+<documentation/>
+</functionEntry>
+<functionEntry name="getHeliHeight" parent="HelicopterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="checkInsideTunnel" parent="HelicopterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="HelicopterMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="HelicopterMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="HelicopterDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="HelicopterDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="HelicopterApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="HelicopterApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="HelicopterApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="HelicopterApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
